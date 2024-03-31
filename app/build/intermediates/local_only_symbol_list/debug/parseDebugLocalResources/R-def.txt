@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable celidion
+drawable ic_check_circle_black_24dp
+drawable ic_error_outline_black_24dp
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable isaiah
+drawable justint
+drawable usaflag
+id btnClear
+id btnGuess
+id entityImage
+id entityName
+id guessinput
+id main
+id ticket
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.GuessMaster
+style Theme.GuessMaster
+xml backup_rules
+xml data_extraction_rules
